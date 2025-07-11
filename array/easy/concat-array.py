@@ -1,5 +1,4 @@
 # leetcode 1929: Concatenation of Array
-
 # Input: nums = [22,21,20,1]
 # Output: [22,21,20,1,22,21,20,1]
 
